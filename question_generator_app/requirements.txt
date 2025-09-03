@@ -1,0 +1,16 @@
+# Core NLP + Transformers
+transformers==4.44.2
+torch==2.4.0
+sentencepiece==0.2.0
+
+# Spacy for preprocessing
+spacy==3.7.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+# Tokenization + Utils
+tiktoken==0.7.0
+protobuf==5.28.0
+blobfile==3.0.0
+
+# GUI
+tk==0.1.0
